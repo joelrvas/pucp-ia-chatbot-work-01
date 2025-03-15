@@ -13432,6 +13432,7 @@ nlu:
 - intent: compromised_card
   examples: |
     - There are a few transaction that I dont recognize, I think someone managed to get my card details and use it.
+
 - intent: compromised_card
   examples: |
     - Someone has been using my card. There are unfamiliar transactions on there. Can you freeze the card to keep this from happening?
@@ -22809,7 +22810,7 @@ nlu:
     - How do I go forth with bank transfers for top up accounts?
 - intent: transfer_into_account
   examples: |
-    - I have an account at another bank, but I want to transfer some of the money to my account here..
+    - I have an account at another bank, but I want to transfer some of the money to my account here.
 - intent: transfer_into_account
   examples: |
     - I want to do a bank transfer to this bank, from an account at another bank.

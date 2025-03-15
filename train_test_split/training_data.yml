@@ -1759,12 +1759,12 @@ nlu:
     - How do I transfer money between two of my accounts?
     - Can I use my bank account to send me more money?
     - I need money put into this account from another one.
-    - I want to transfer money into my account
+    - I have an account at another bank, but I want to transfer some of the money to my account here.
     - What is the procedure to transfer money to my account?
     - How do I go forth on transferring a sum of money from one account to another?
     - How can I transfer some money into a foreign account?
-    - How can you assist me on topping up on bank transfers to my account?
-    - I have an account at another bank, but I want to transfer some of the money to my account here..
+    - How can my account have money transferred into it?
+    - I need more money in my account. Can I add more by transferring?
     - How can I top up my account by bank transfer?
     - What process should I use to transfer money into my account?
     - I was wondering about transferring money into my account and how it works.  Can you tell me about that?
@@ -1772,15 +1772,15 @@ nlu:
     - I need to transfer money to my account from another bank
     - What do you do to transfer money to my account?
     - How do I go forth with bank transfers for top up accounts?
-    - How can I go about transferring money to my account?
+    - How can you assist me on topping up on bank transfers to my account?
     - I would like to move money from one account to another to top off my account. Can you explain how I can do that?
     - Id like to know how transferring my money into my account works.
     - I want to transfer money. How do I do that for my account?
-    - I am looking to transfer some money from my other bank account into this one.
+    - I need to transfer money into this account from my other bank account.
     - I would like to top up my account with a bank transfer, is that allowed?
     - Can I top-up my card using a bank transfer.
     - Is a bank transfer acceptable for topping up my account?
-    - I want to take some funds from my other bank account and add them to this one.
+    - I want to transfer money into my account
     - What can I expect if I use bank transfer to top up my account?
     - My account is depleted. Can I transfer funds from another bank?
     - I need to add money to my account. Can I do so via bank transfer?
@@ -1793,10 +1793,10 @@ nlu:
     - For my account, how do I transfer money in?
     - I need to know the process to transfer money into my account.
     - I want to transfer a sum of money from another bank account I have into this one
-    - How can I move money from my account at a different bank to the account I have at this bank.
+    - How do I top up my account with a bank transfer?
     - I need to deposit money to my account
     - Whats the process of tranfering money into an account?
-    - How does it work when I transfer money into my account?
+    - Help! My account doesnt show any funds. Is transferring funds an option I can use?
     - Why can I not transfer money into my account?
     - Can I use a bank transfer to add money to my account?
     - I am in desperate need to transfer funds from another account that i have into this one, how do i do that?
@@ -1804,8 +1804,8 @@ nlu:
     - Where can I find out how to transfer money into my account.
     - How would I use a bank transfer for topping my account?
     - can i transfer money i the app
-    - I would like to know how to transfer money into my account.
-    - My account is devoid of funds. Am I permitted to submit additional money via bank transfer?
+    - How can I go about transferring money to my account?
+    - How does it work when I transfer money into my account?
     - I need to move money from one of my other accounts to this one.
     - I want to top up by transfering accounts, What do I do?
     - Account topping up bank transfers to my account assistance please?
@@ -1818,7 +1818,7 @@ nlu:
     - How do I go about transferring money into my bank account?
     - What are my bank details so I can do a transfer?
     - HOW DO I TRANSFER MONEY FROM MY BANK ACCOUNT?
-    - How can my account have money transferred into it?
+    - I want to transfer money from another account into this one.
     - show me how to transfer to my account
     - I have an account that is empty of funds. Can I transfer some from another bank?
     - How do I transfer money from one bank account to another?
@@ -1832,17 +1832,17 @@ nlu:
     - How can I move money from an account at another bank to this one?
     - I want to do a bank transfer to this bank, from an account at another bank.
     - I want to op up my account by using bank transfer. How do I go about it?
-    - I need more money in my account. Can I add more by transferring?
-    - I cant figure out how to transfer money into my account.
+    - What currencies can I use to top up my account?
+    - How can I move money from my account at a different bank to the account I have at this bank.
     - I have money in a foreign account that I want to send to this account.
     - Can I withdraw money from another bank and transfer it into my empty account?
     - How can I add money to my account from another account I have?
     - What are the steps for  making a transfer for topping up?
     - What is the process for transferring money into my account?
-    - How do I top up my account with a bank transfer?
+    - I want to take some funds from my other bank account and add them to this one.
     - How does your app transfer the money
     - How do I transfer cash my into my account?
-    - I need to transfer funds from my other bank account into this bank account.
+    - I cant figure out how to transfer money into my account.
     - I need to transfer money into my account, and I dont know how to do that.
     - How can I deposit money to my account?
 - intent: pin_blocked

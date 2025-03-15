@@ -476,23 +476,23 @@ nlu:
 - intent: transfer_into_account
   examples: |
     - Can you please explain how bank transfers work?
-    - I want to transfer money from another account into this one.
+    - My money is all gone. What ways are okay to add money to my account?
     - I have zero dollars in my account. Can I submit additional funds via bank transfer?
     - Can I add money to my account via bank transfer?
     - How do I top up my account using transfer?
-    - Help! My account doesnt show any funds. Is transferring funds an option I can use?
+    - I am looking to transfer some money from my other bank account into this one.
     - where do i go to transfer money from one account to this one
     - How is my money transferred to the account
-    - What currencies can I use to top up my account?
+    - I would like to know how to transfer money into my account.
     - How do I top up?
     - Can you transfer money to your card by bank transfer?
     - What steps are taken to transfer money into my account?
-    - I need to transfer money into this account from my other bank account.
+    - I need to transfer funds from my other bank account into this bank account.
     - How does a bank transfer for topping my account work?
     - I want to transfer money into my account, what do I do?
     - How can I link my bank to my top up account?
     - How do I deposit through bank transfer?
-    - My money is all gone. What ways are okay to add money to my account?
+    - My account is devoid of funds. Am I permitted to submit additional money via bank transfer?
     - How simple is it to transfer money into my account?
     - Can you tell me how transferring money into my account works?
     - Can I transfer money to my card via bank-transfer?
