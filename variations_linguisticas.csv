@@ -1,0 +1,26 @@
+text,category
+How can I track my card?,card_arrival
+Where exactly is my card?,card_arrival
+Is there a way to find my card?,card_arrival
+How do I check the location of my card?,card_arrival
+Can you help me find my missing card?,card_arrival
+How do exchange rates work?,exchange_rate
+What’s the current exchange rate?,exchange_rate
+Can you explain how exchange rates are calculated?,exchange_rate
+How do I check exchange rates?,exchange_rate
+What factors affect exchange rates?,exchange_rate
+Why has my account been charged an extra dollar?,extra_charge_on_statement
+I noticed an extra dollar charge on my account. Why?,extra_charge_on_statement
+Can you explain why my account was charged an extra dollar?,extra_charge_on_statement
+My account was debited an additional dollar. What’s the reason?,extra_charge_on_statement
+Where did this extra dollar charge come from?,extra_charge_on_statement
+Does shipping to the US take longer than usual?,card_delivery_estimate
+How long does it take for deliveries to reach the US?,card_delivery_estimate
+Is delivery to the US slow?,card_delivery_estimate
+What’s the estimated time for deliveries to the US?,card_delivery_estimate
+Do packages take a long time to arrive in the US?,card_delivery_estimate
+It looks like someone else is accessing my account.,compromised_card
+I think my account has been compromised.,compromised_card
+There’s unauthorized activity on my account.,compromised_card
+I suspect someone is using my account without permission.,compromised_card
+My account seems to be in use by someone else.,compromised_card
